@@ -1,0 +1,3 @@
+Please write the bellow line  in cmd
+
+composer require nicolaslopezj/searchable
